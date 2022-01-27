@@ -14,7 +14,7 @@ GARLIC NAAN 20 40
 
 ### Background:
 
-[R. Data - 1 tab.xlsx](https://github.com/Ashish-Gore/Multivariate_Forecasting_LSTM_Restaurant/blob/master/R.%20Data%20-%201%20tab.xlsx) as given data file.
+[R. Data - 1 tab.xlsx](https://github.com/Swapniljagdale156/Multivariate_Forecasting_LSTM_Restaurant-master/blob/main/R.%20Data%20-%201%20tab.xlsx) as given data file.
 
 - The dataset is for restaurant sales for Tuesday and Wednesday, both lunch and dinner time.
 
@@ -39,15 +39,15 @@ GARLIC NAAN 20 40
 
 **Based on the Problem statement provided, Problem have been sub divided tasks in below 4 sections:**
 
-[1.	Initial_EDA:](https://github.com/Ashish-Gore/Multivariate_Forecasting_LSTM_Restaurant/blob/master/1.%20Initial_EDA.ipynb)
+[1.	Initial_EDA:](https://github.com/Swapniljagdale156/Multivariate_Forecasting_LSTM_Restaurant-master/blob/main/1.%20Initial_EDA.ipynb)
 This File Contains the EDA part for the initial excel file provided with 200 records.
 
-[2.	Data Expansion:](https://github.com/Ashish-Gore/Multivariate_Forecasting_LSTM_Restaurant/blob/master/2.%20Data_Expansion.ipynb)
+[2.	Data Expansion:](https://github.com/Swapniljagdale156/Multivariate_Forecasting_LSTM_Restaurant-master/blob/main/2.%20Data_Expansion.ipynb)
 This file Contains the Codes to Expand the data randomly for the period of 6 months.
 
-[3.	Model Building:](https://github.com/Ashish-Gore/Multivariate_Forecasting_LSTM_Restaurant/blob/master/3.%20Model_Building.ipynb)
+[3.	Model Building:](https://github.com/Swapniljagdale156/Multivariate_Forecasting_LSTM_Restaurant-master/blob/main/3.%20Model_Building.ipynb)
 This file contains 5 algorithms and 4 Meta Algorithms. And Hyper parameter Tuning using cross validation method for both Randomised Search cv and Grid Search CV.
 
-[4.	Prediction using LSTM](https://github.com/Ashish-Gore/Multivariate_Forecasting_LSTM_Restaurant/blob/master/4.%20Prediction_using_LSTM.ipynb)
+[4.	Prediction using LSTM](https://github.com/Swapniljagdale156/Multivariate_Forecasting_LSTM_Restaurant-master/blob/main/4.%20Prediction_using_LSTM.ipynb)
 This File contains the Final Prediction with multiple output variables, as Structure described In the Problem statement. 
 
